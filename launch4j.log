@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\diego\.codeProjects\autoAlphabetize\autoAlphabetize.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\diego\.codeProjects\autoAlphabetize\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\diego\AppData\Local\Microsoft\WindowsApps;;C:\Users\diego\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\diego\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin
+JRE paths:	;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\diego\AppData\Local\Microsoft\WindowsApps;;C:\Users\diego\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\diego\AppData\Roaming\npm;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\diego\.codeProjects\autoAlphabetize\autoAlphabetize.exe"
+Args length:	71/32768 chars
+Exit code:	0
